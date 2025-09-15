@@ -22,7 +22,7 @@ Authored a 9-page full report (findings, methods, limitations, recommendations) 
 
 ### **Deliverables**
 
-Interactive Dashboards: https://public.tableau.com/shared/KXG9MWQWH?:display_count=n&:origin=viz_share_link 
+Interactive Dashboards: public.tableau.com/shared/KXG9MWQWH?:display_count=n&:origin=viz_share_link 
 
 Full Report (PDF)
 
@@ -44,4 +44,4 @@ Communicating insights for business decision-making
 
 ### 
 
-**Full Release Here:** https://github.com/will-glass/EastCoast-Housing-Market-Analysis/releases/tag/v1.0 
+**Full Release Here:** github.com/will-glass/EastCoast-Housing-Market-Analysis/releases/tag/v1.0 
