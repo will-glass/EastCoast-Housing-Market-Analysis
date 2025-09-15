@@ -1,10 +1,8 @@
-**East Coast Housing Market Analysis
-**
+**East Coast Housing Market Analysis**
 
 This self-directed data project evaluates housing market health and investment potential across 21 East Coast metropolitan areas. The analysis compares metros across three peer groups (MA/CT/RI, NY/PA, and NC/FL) using standardized metrics and a composite Investment Score to assess long-term growth, affordability, liquidity, and short-term momentum.
 
-**Project Overview
-**
+**Project Overview**
 
 Self-started research project designed to both showcase and develop advanced data analysis skills.
 
@@ -22,8 +20,7 @@ Built two interactive Tableau dashboards to present findings and enable explorat
 
 Authored a 9-page full report (findings, methods, limitations, recommendations) and a 1-page executive summary for stakeholders.
 
-**Deliverables
-**
+**Deliverables**
 
 Interactive Dashboards: https://public.tableau.com/shared/KXG9MWQWH?:display_count=n&:origin=viz_share_link 
 
@@ -33,8 +30,7 @@ Executive Summary (PDF)
 
 Packaged Workbook (.twbx)
 
-**Skills Demonstrated
-**
+**Skills Demonstrated**
 
 Data cleaning & transformation (Excel Power Query)
 
