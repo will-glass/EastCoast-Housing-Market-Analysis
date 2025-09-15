@@ -41,3 +41,5 @@ Data visualization & dashboard design (Tableau)
 Research design & professional reporting
 
 Communicating insights for business decision-making
+
+**Full Release Here:** https://github.com/will-glass/EastCoast-Housing-Market-Analysis/releases/tag/v1.0 
