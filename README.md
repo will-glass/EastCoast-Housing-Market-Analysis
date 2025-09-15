@@ -1,3 +1,5 @@
+![Dashboard preview](./Assets/dashboard.png)
+
 ## **East Coast Housing Market Analysis**
 
 This self-directed data project evaluates housing market health and investment potential across 21 East Coast metropolitan areas. The analysis compares metros across three peer groups (MA/CT/RI, NY/PA, and NC/FL) using standardized metrics and a composite Investment Score to assess long-term growth, affordability, liquidity, and short-term momentum.
